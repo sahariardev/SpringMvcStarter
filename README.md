@@ -1,5 +1,5 @@
 # SpringMvcStarter
-->Spring
-->Thymeleaf
-->JAVA base configuration
-->JPA
+ Spring
+ Thymeleaf
+ JAVA base configuration
+ JPA
